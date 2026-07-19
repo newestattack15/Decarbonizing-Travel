@@ -42,11 +42,9 @@ Deliverables: a 3-tab Celonis dashboard (Emissions Overview, Benchmarking, Emiss
 
 ```
 ├── Part 1/                          # Celonis capstone materials (outline, data dictionary, presentation)
-├── Part 2/                          # ML challenge handbook and sample submission
+├── Part 2/                          # Full ML pipeline: EDA, feature engineering, training, prediction,;Final predicted probabilities for the private test set
 ├── Public Dataset/                  # Training data (trip data, event log, attributes)
 ├── Private dataset/                 # Test data used for scoring
-├── GreenTravel_Solution.ipynb       # Full ML pipeline: EDA, feature engineering, training, prediction
-├── submission.csv                   # Final predicted probabilities for the private test set
 ├── GreenTravel_..._ML_Solution.pdf  # ML methodology write-up
 └── README.md
 ```
