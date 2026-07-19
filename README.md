@@ -41,7 +41,7 @@ Deliverables: a 3-tab Celonis dashboard (Emissions Overview, Benchmarking, Emiss
 ## Repo Structure
 
 ```
-├── Part 1/                          # Celonis capstone materials (outline, data dictionary, presentation)
+├── Part 1/                          # a ppt presenting the solution to the 5 business problems with celonis dashboard
 ├── Part 2/                          # Full ML pipeline: EDA, feature engineering, training, prediction,;Final predicted probabilities for the private test set
 ├── Public Dataset/                  # Training data (trip data, event log, attributes)
 ├── Private dataset/                 # Test data used for scoring
